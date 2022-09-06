@@ -17,7 +17,7 @@ Questions :
 14-Saldırgan muhtemelen hangi şehri "ev" olarak görüyor?
 
 # 1-Saldırgan hangi kullanıcı adını kullanıyor?
-![Alt text](/img/exif.png  "Optional title")
+![Alt text](https://raw.githubusercontent.com/Berkkucukk/Sakura-writeup/main/exif.png  "Optional title")
 Bize verilmiş olan .svg uzantılı fotoğrafı tarayıcımızda veya text editör yardımıyla açtığımız zaman, içerisinde /home/SakuraSnowAngelAiko/Desktop/pwnedletter.png şeklinde bir path buluyoruz. Buradan home klasöründeki kullanıcı adı bize tam adı veriyor.
 
 # 2-Saldırganın kullandığı tam e-posta adresi nedir?
